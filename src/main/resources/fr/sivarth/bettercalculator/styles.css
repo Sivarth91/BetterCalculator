@@ -1,0 +1,63 @@
+.number-button {
+    -fx-background-color: #303136;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-font-family: Arial, sans-serif;
+    -fx-background-radius: 16px;
+}
+
+.minusSign-button {
+    -fx-background-color: #303136;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: Arial, sans-serif;
+    -fx-background-radius: 16px;
+}
+
+.grey-button {
+    -fx-background-color: #616161;
+    -fx-background-radius: 16px;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
+.delete-button {
+    -fx-background-color: #616161;
+    -fx-background-radius: 16px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.equal-button {
+    -fx-background-color: #1991FF;
+    -fx-font-size: 22px;
+    -fx-background-radius: 12px;
+}
+
+.blue-button {
+    -fx-background-color: #005DB2;
+    -fx-background-radius: 16px;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
+.add-button {
+    -fx-background-color: #005DB2;
+    -fx-background-radius: 12px;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+
+.multiply-button {
+    -fx-background-color: #005DB2;
+    -fx-background-radius: 16px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.label {
+    -fx-background-color: #17181A;
+    -fx-font-size: 32px;
+    -fx-font-weight: bolder;
+    -fx-text-fill: white;
+}
