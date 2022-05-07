@@ -16,7 +16,7 @@ public class CalculatorApplication extends Application {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(CalculatorApplication.class.getResource("app-view.fxml"));
             Scene scene = new Scene(fxmlLoader.load(), 300, 570, Color.BLACK);
-            Image ico = new Image("C:\\Users\\sivau\\Documents\\Dev\\BetterCalculator\\images\\logo.png");
+            Image ico = new Image("C:\\Users\\sivau\\Documents\\Dev\\BetterCalculator\\images\\app\\logo.png");
             stage.setTitle("BetterCalculator");
             stage.getIcons().add(ico);
             stage.setScene(scene);
