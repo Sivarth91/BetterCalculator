@@ -13,10 +13,10 @@ You can :
 
 Some screenshots :
 - ### When I start the calculator
-<img src="./images/screenshots/screenshot-1.PNG"></img>
+<img src="./images/screenshot-1.PNG"></img>
 - ### Positive number
-<img src="./images/screenshots/screenshot-2.PNG"></img>
+<img src="./images/screenshot-2.PNG"></img>
 - ### Negative number
-<img src="./images/screenshots/screenshot-3.PNG"></img>
+<img src="./images/screenshot-3.PNG"></img>
 - ### When I push pi number :
-<img src="./images/screenshots/screenshot-4.PNG"></img>
+<img src="./images/screenshot-4.PNG"></img>
